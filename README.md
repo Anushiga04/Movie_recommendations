@@ -1,1 +1,1 @@
-# Movie_recommendation model implemented from scratch and using surprise libraries
+# Movie_recommendation model
